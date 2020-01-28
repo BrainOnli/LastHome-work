@@ -1,16 +1,4 @@
-Skip to content
- yankovalenko94 / JS_task_answers
-Sign up
-Code Issues 2 Pull requests 2 Projects 0 Security Pulse
-Join GitHub today
-GitHub is home to over 40 million developers working together to host and review code, manage projects, and build software together.
-
-JS_task_answers/Задание_7/script.js
-@ihinstone ihinstone answers for JS course
-a9d9a4c on 8 Apr 2019
-118 lines (98 sloc)  4.75 KB
-  
-'use strict';
+  'use strict';
 
 let startBtn = document.getElementById("start"),
 	budgetValue = document.getElementsByClassName('budget-value')[0],
